@@ -26,11 +26,11 @@ The project offers the following functionalities:
 5. **Display Dictionary:**
    - Displays all available words in the dictionary, providing a comprehensive view.
 
-## Getting Started
-The implementation of this project is available [here](https://1drv.ms/f/s!AvgohQFkZ3gHkm0DWWL1Q6CDxSof). Follow the link to access the code and set up the project locally.
-
 ## References
-1. English Dictionary using Data Structure (BST),https://www.sourcecodester.com/cc/5975/english-dictionary-using-data-structurebst.html
-2. Implement a Dictionary using Trie,https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
-3. Data Structure Dictionary (Spell Checker),https://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/
-4. Word Break Problem,https://www.geeksforgeeks.org/word-break-problem-dp-32/
+1. C++ Documentation,https://en.cppreference.com/w/
+2. File Handling in C++,https://www.geeksforgeeks.org/file-handling-c-classes/
+3. Binary Search Tree (BST),https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+4. AVL Trees,https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+5. Hash Tables in C++,http://www.cplusplus.com/reference/unordered_map/unordered_map/
+6. English Dictionary using Data Structure (BST),https://www.sourcecodester.com/cc/5975/english-dictionary-using-data-structurebst.html
+7. Implement a Dictionary using Trie,https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
