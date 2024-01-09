@@ -32,5 +32,4 @@ The project offers the following functionalities:
 3. Binary Search Tree (BST),https://www.geeksforgeeks.org/binary-search-tree-data-structure/
 4. AVL Trees,https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
 5. Hash Tables in C++,http://www.cplusplus.com/reference/unordered_map/unordered_map/
-6. English Dictionary using Data Structure (BST),https://www.sourcecodester.com/cc/5975/english-dictionary-using-data-structurebst.html
-7. Implement a Dictionary using Trie,https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
+6. Implement a Dictionary using Trie,https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
