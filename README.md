@@ -10,17 +10,20 @@ A Dictionary is a crucial data structure used to store information in a key-valu
 ### Functionality
 The project offers the following functionalities:
 
-1. **Search Meaning:**
+1. **Data Insertion:**
+   - Words can be added to the dictionary by manually writing them in a text file. This enables continual updates to the dictionary.
+
+2. **Search Meaning:**
    - Searches for the meanings of specific words efficiently.
    - Looks for the entered word in suggested words, providing a comprehensive understanding.
 
-2. **Word Count:**
+3. **Word Count:**
    - Displays the total count of words available in the dictionary.
 
-3. **Word of the Day:**
+4. **Word of the Day:**
    - Suggests a random word from the dictionary, enhancing vocabulary exploration.
 
-4. **Display Dictionary:**
+5. **Display Dictionary:**
    - Displays all available words in the dictionary, providing a comprehensive view.
 
 ## Getting Started
