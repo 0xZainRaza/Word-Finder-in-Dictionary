@@ -4,6 +4,10 @@ This project demonstrates the usage of a Dictionary application implemented in C
 
 Our application streamlines the process of searching for word meanings by efficiently retrieving the entered word and presenting its corresponding meaning. Additionally, the system suggests related words, enhancing the user experience and expanding their vocabulary.
 
+
+https://github.com/0xZainRaza/Word-Finder-in-Dictionary/assets/154006182/e5cc8810-6f04-4f49-874c-5d3d87e4d17e
+
+
 ## Project Description
 A Dictionary is a crucial data structure used to store information in a key-value format, typically listing words alphabetically with their meanings. This project aims to enhance the traditional dictionary by utilizing a .txt file as a database and employing C++ as the front-end tool. The system is designed to reduce time complexity in word searches through the implementation of hash tables and trie data structures.
 
