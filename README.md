@@ -7,8 +7,7 @@ Our application streamlines the process of searching for word meanings by effici
 ## Project Description
 A Dictionary is a crucial data structure used to store information in a key-value format, typically listing words alphabetically with their meanings. This project aims to enhance the traditional dictionary by utilizing a .txt file as a database and employing C++ as the front-end tool. The system is designed to reduce time complexity in word searches through the implementation of hash tables and trie data structures.
 
-### Functionality
-The project offers the following functionalities:
+### Features
 
 1. **Data Insertion:**
    - Words can be added to the dictionary by manually writing them in a text file. This enables continual updates to the dictionary.
