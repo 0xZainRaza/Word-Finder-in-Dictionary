@@ -1,0 +1,1070 @@
+BST
+A BST is considered a data structure made up of nodes, like Linked Lists.
+Binary Trees
+AVL
+Trees
+Abstract Data Type
+Abbreviated ADT. The specification of a data type within some language, independent of an implementation.
+Adt
+ADT
+Trees
+Acceptor
+In formal languages, any machine whose primary purpose is to determine whether a string is accepted (is recognized to be in a language) or rejected.
+Accept
+Extract
+String
+Address
+A location in memory.
+Memory
+Location
+Addressing
+Deterministic algorithm
+An algorithm that does not involve any element of randomness, and so its behavior on a given input will always be the same. This is in contrast to a randomized algorithm.
+Deterministic Finite Automata
+Deterministic Finite Acceptor
+DFA
+Dijkstra algorithm
+An algorithm to solve the single-source shortest paths problem in a graph. This is a greedy algorithm. It is nearly identical to Prim’s algorithm for finding a minimal-cost spanning tree, with the only difference being the calculation done to update the best-known distance.
+Prim’s algorithm
+Kruskal algorithm
+Dijkstra
+Adjacent
+Two nodes of a tree or two vertices of a graph are said to be adjacent if they have an edge connecting them. If the edge is directed from a to b, then we say that a is adjacent to b, and b is adjacent from a.
+Adjacency list
+Adjacency matrix
+Adt
+Adt
+Abbreviation for abstract data type.
+Adversary
+Adversary argument
+Adjacent
+Adversary
+A fictional construct introduced for use in an adversary argument.
+Adversary argument
+Adjacent
+Aggregate type
+Algorithm analysis
+A less formal version of the term asymptotic algorithm analysis, generally used as a synonym for asymptotic analysis.
+Alias
+Algorithm
+Adversary
+Alias
+Another name for something. In programming, this usually refers to two references that refer to the same object.
+Algorithm
+Adversary
+Adjacent
+Arm
+In the context of an I/O head, this attaches the sensor on the I/O head to the boom.
+Array
+Array-based list
+Array-based queue
+Array
+A data type that is used to store elements in consecutive memory locations and refers to them by an index.
+Array-based list
+Array-based queue
+Arm
+Array-based queue
+Analogous to an array-based list, this uses an array to store the elements when implementing the queue ADT.
+Ancestor
+Array-based list
+Array-based stack
+Array-based stack
+Analogous to an array-based list, this uses an array to store the elements when implementing the stack ADT.
+Array-based queue
+Ancestor
+Array-based list
+Assembly code
+A form of intermediate code created by a compiler that is easy to convert into the final form that the computer can execute. An assembly language is typically a direct mapping of one or a few instructions that the CPU can execute into a mnemonic form that is relatively easy for a human to read.
+Asymptotic algorithm analysis
+Asymptotic analysis
+Attribute
+Backtracking
+A heuristic for brute-force search of a solution space. It is essentially a depth-first search of the solution space. This can be improved using a branch-and-bounds algorithm.
+Backing storage
+Bad reference
+Bag
+Bad reference
+A reference is referred to as a bad reference if it is allocated but not initialized.
+Backing storage
+Bag
+Backtracking
+Bag
+In set notation, a bag is a collection of elements with no order (like a set), but which allows for duplicate-valued elements (unlike a set).
+Backtracking
+Backing storage
+Balanced tree
+Balanced tree
+A tree where the subtrees meet some criteria for being balanced. Two possibilities are that the tree is height balanced, or that the tree has a roughly equal number of nodes in each subtree.
+B+-tree
+Backtracking
+Backing storage
+Base
+Synonym for radix.
+Base case
+Base class
+Base type
+Base case
+In recursion or proof by induction, the base case is the termination condition. This is a simple input or value that can be solved (or proved in the case of induction) without resorting to a recursive call (or the induction hypothesis).
+Base
+Base class
+Base type
+Binary search tree property
+The defining relationship between the key values for nodes in a BST. All nodes stored in the left subtree of a node whose key value is K have key values less than or equal to K. All nodes stored in the right subtree of a node whose key value is K have key values greater than K.
+Binary tree
+Binary search
+Binary tree
+Binary tree
+A finite set of nodes which is either empty, or else has a root node together two binary trees, called the left and right subtrees, which are disjoint from each other and from the root.
+Binary trie
+Binary search
+Binary search tree property
+Binary trie
+A binary tree whose structure is that of a trie. Generally this is an implementation for a search tree. This means that the search key values are thought of a binary digits, with the digit in the position corresponding to this a node’s level in the tree indicating a left branch if it is “0”, or a right branch if it is “1”. Examples include the Huffman coding tree and the Bintree.
+Binary search tree property
+Binary search
+Binary tree
+Binning
+In hashing, binning is a type of hash function. Say we are given keys in the range 0 to 999, and have a hash table of size 10. In this case, a possible hash function might simply divide the key value by 100. Thus, all keys in the range 0 to 99 would hash to slot 0, keys 100 to 199 would hash to slot 1, and so on. In other words, this hash function “bins” the first 100 keys to the first slot, the next 100 keys to the second slot, and so on. 
+Binsort
+Bintree
+Binary tree
+Binsort
+A sort that works by taking each record and placing it into a bin based on its value. The bins are then gathered up in order to sort the list. It is generally not practical in this form, but it is the conceptual underpinning of the radix sort.
+Binary tree
+Bintree
+Binary trie
+Bintree
+A spatial data structure in the form of binary trie, typically used to store point data in two or more dimensions. Similar to a PR quadtree except that at each level, it splits one dimension in half. Since many leaf nodes of the PR quadtree will contain no data points, implementation often makes use of the flyweight design pattern.
+Binary trie
+Binary tree
+Binsort
+Bit vector
+An array that stores a single bit at each position. Typically these bits represent Boolean variables associated with a collection of objects, such that the i th bit is the Boolean value for the i th object.
+Block
+Boolean expression
+Boolean variable
+Block
+A unit of storage, usually referring to storage on a disk drive or other peripheral storage device. A block is the basic unit of I/O for that device.
+Boolean expression
+Boolean variable
+Boom
+Boolean expression
+A Boolean expression is comprised of Boolean variables combined using the operators AND (⋅), OR (+), and NOT (to negate Boolean variable x we write x¯¯¯).
+Boom
+Boolean variable
+Bounding box
+Boolean variable
+A variable that takes on one of the two values True and False.
+Bounding box
+Boolean expression
+Boom
+Boom
+In the context of an I/O head, is the central structure to which all of the I/O heads are attached. Thus, the all move together during a seek operation.
+Bounding box
+Boolean expression
+Branch-and-bounds algorithm
+Bounding box
+A box (usually aligned to the coordinate axes of the reference system) that contains a (potentially complex) object. In graphics and computational geometry, complex objects might be associated with a bounding box for use by algorithms that search for objects in a particular location. The idea is that if the bounding box is not within the area of interest, then neither is the object. Checking the bounding box is cheaper than checking the object, but it does require some time.
+Boolean expression
+Boom
+Boolean variable
+Buffer pool
+A collection of one or more buffers. The buffer pool is an example of a cache. It is stored in primary storage, and holds data that is expected to be used in the near future. When a data value is requested, the buffer pool is searched first. If the value is found in the buffer pool, then secondary storage need not be accessed. If the value is not found in the buffer pool, then it must be fetched from secondary storage. A number of traditional heuristics have been developed for deciding which data to flush from the buffer pool when new data must be stored, such as least recently used.
+Buffer
+Buffering
+Buffer passing
+Buffering
+A synonym for caching. More specifically, it refers to an arrangement where all accesses to data (such as on a peripheral storage device) must be done in multiples of some minimum unit of storage. On a disk drive, this basic or smallest unit of I/O is a sector. It is called “buffering” because the block of data returned by such an access is stored in a buffer.
+Buffer passing
+Buffer
+Buffer pool
+Caching
+The concept of keeping selected data in main memory. The goal is to have in main memory the data values that are most likely to be used in the near future. An example of a caching technique is the use of a buffer pool.
+Call stack
+Cartesian product
+Ceiling
+Call stack
+Known also as execution stack. A stack that stores the function call sequence and the return address for each function.
+Cartesian product
+Ceiling
+Child
+Cartesian product
+For sets, this is another name for the set product.
+-
+-
+-
+Ceiling
+Written ⌈x⌉, for real value x the ceiling is the least integer ≥x.
+-
+-
+-
+Child
+In a tree, the set of nodes directly pointed to by a node R are the children of R.
+-
+-
+-
+Clause
+In a Boolean expression, a clause is one or more literals OR’ed together.
+-
+-
+-
+Client
+The user of a service. For example, the object or part of the program that calls a memory manager class is the client of that memory manager. Likewise the class or code that calls a buffer pool.
+-
+-
+-
+Clique
+In graph terminology, a clique is a subgraph, defined as any subset U of the graph’s vertices such that every vertex in U has an edge to every other vertex in U. The size of the clique is the number of vertices in the clique.
+-
+-
+-
+Closed
+A set is closed over a (binary) operation if, whenever the operation is applied to two members of the set, the result is a member of the set.
+-
+-
+-
+Closed hash system
+A hash system where all records are stored in slots of the hash table. This is in contrast to an open hash system.
+-
+-
+-
+Closed-form solution
+An algebraic equation with the same value as a summation or recurrence relation. The process of replacing the summation or recurrence with its closed-form solution is known as solving the summation or recurrence.
+-
+-
+-
+Cluster
+In file processing, a collection of physically adjacent sectors that define the smallest allowed allocation unit of space to a disk file. The idea of requiring space to be allocated in multiples of sectors is that this will reduce the number of extents required to store the file, which reduces the expected number of seek operations reuquired to process a series of disk accesses to the file. The disadvantage of large cluster size is that it increases internal fragmentation since any space not actually used by the file in the last cluster is wasted.
+-
+-
+-
+Code generation
+A phase in a compiler that transforms intermediate code into the final executable form of the code. More generally, this can refer to the process of turning a parse tree (that determines the correctness of the structure of the program) into actual instructions that the computer can execute.
+-
+-
+-
+Code optimization
+A phase in a compiler that makes changes in the code (typically assembly code) with the goal of replacing it with a version of the code that will run faster while performing the same computation.
+-
+-
+-
+Cohesion
+In object-oriented programming, a term that refers to the degree to which a class has a single well-defined role or responsibility.
+-
+-
+-
+Collatz sequence
+For a given integer value n, the sequence of numbers that derives from performing the following computatin on n
+-
+-
+-
+Collision
+In a hash system, this refers to the case where two search keys are mapped by the hash function to the same slot in the hash table. This can happen on insertion or search when another record has already been hashed to that slot. In this case, a closed hash system will require a process known as collision resolution to find the location of the desired record.
+-
+-
+-
+Collision resolution
+The outcome of a collision resolution policy.
+-
+-
+-
+Collision resolution policy
+In hashing, the process of resolving a collision. Specifically in a closed hash system, this is the process of finding the proper position in a hash table that contains the desired record if the hash function did not return the correct position for that record due to a collision with another record.
+-
+-
+-
+Comparable
+The concept that two objects can be compared to determine if they are equal or not, or to determine which one is greater than the other. In set notation, elements x and y of a set are comparable under a given relation R if either xRy or yRx. To be reliably compared for a greater/lesser relationship, the values being compared must belong to a total order. In programming, the property of a data type such that two elements of the type can be compared to determine if they the same (a weaker version), or which of the two is larger (a stronger version). Comparable is also the name of an interface in Java that asserts a comparable relationship between objects with a class, and .compareTo() is the Comparable interface method that implements the actual comparison between two objects of the class.
+-
+-
+-
+Comparator
+A function given as a parameter to a method of a library (or alternatively, a parameter for a C++ template or a Java generic). The comparator function concept provides a generic way encapulates the process of performing a comparison between two objects of a specific type. For example, if we want to write a generic sorting routine, that can handle any record type, we can require that the user of the sorting routine pass in a comparator function to define how records in the collection are to be compared.
+-
+-
+-
+Comparison
+The act of comparing two keys or records. For many data types, a comparison has constant time cost. The number of comparisons required is often used as a measure of cost for sorting and searching algorithms.
+-
+-
+-
+Compile-time polymorphism
+A form of polymorphism known as Overloading. Overloaded methods have the same names, but different signatures as a method available elsewhere in the class. Compare to run-time polymorphism.
+-
+-
+-
+Compiler
+A computer program that reads computer programs and converts them into a form that can be directly excecuted by some form of computer. The major phases in a compiler include lexical analysis, syntax analysis, intermediate code generation, code optimization, and code generation. More broadly, a compiler can be viewed as parsing the program to verify that it is syntactically correct, and then doing code generation to convert the hig-level program into something that the computer can execute.
+-
+-
+-
+Complete binary tree
+A binary tree where the nodes are filled in row by row, with the bottom row filled in left to right. Due to this requirement, there is only one tree of n nodes for any value of n. Since storing the records in an array in row order leads to a simple mapping from a node’s position in the array to its parent, siblings, and children, the array representation is most commonly used to implement the complete binary tree. The heap data structure is a complete binary tree with partial ordering constraints on the node values.
+-
+-
+-
+Complete graph
+A graph where every vertex connects to every other vertex.
+-
+-
+-
+Complex number
+In mathematics, an imaginary number, that is, a number with a real component and an imaginary component.
+-
+-
+-
+Composite design pattern
+Given a class hierarchy representing a set of objects, and a container for a collection of objects, the composite design pattern addresses the relationship between the object hierarchy and a bunch of behaviors on the objects. In the composite design, each object is required to implement the collection of behaviors. This is in contrast to the procedural approach where a behavior (such as a tree traversal) is implemented as a method on the object collection (such as a tree). Procedural tree traversal requires that the tree have a method that understands what to do when it encounters any of the object types (internal or leaf nodes) that the tree might contain. The composite approach would have the tree call the “traversal” method on its root node, which then knows how to perform the “traversal” behavior. This might in turn require invoking the traversal method of other objects (in this case, the children of the root).
+-
+-
+-
+Composite type
+A type whose members have subparts. For example, a typical database record. Another term for this is aggregate type.
+-
+-
+-
+Composition
+Relationships between classes based on usage rather than inheritance, i.e. a HAS-A relationship. For example, some code in class ‘A’ has a reference to some other clas‘B’.
+-
+-
+-
+Computability
+A branch of computer science that deals with the theory of solving problems through computation. More specificially, it deals with the limits to what problems (functions) are computable. An example of a famous problem that cannot in principle be solved by a computer is the halting problem.
+-
+-
+-
+Computation
+In a finite automata, a computation is a sequence of configurations for some length n≥0. In general, it is a series of operations that the machine performs.
+-
+-
+-
+Computational complexity theory
+A branch of the theory of computation in theoretical computer science and mathematics that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. An example is the study of NP-Complete problems.
+-
+-
+-
+Configuration
+For a finite automata, a complete specification for the current condition of the machine on some input string. This includes the current state that the machine is in, and the current condition of the string, including which character is about to be processed.
+-
+-
+-
+CNF
+A Boolean expression written as a series of clauses that are AND’ed together.
+-
+-
+-
+Connected component
+In an undirected graph, a subset of the nodes such that each node in the subset can be reached from any other node in that subset.
+-
+-
+-
+Connected graph
+An undirected graph is a connected graph if there is at least one path from any vertex to any other.
+-
+-
+-
+Constant running time
+The cost of a function whose running time is not related to its input size. In Theta notation, this is traditionally written as Θ(1).
+-
+-
+-
+Constructive induction
+A process for finding the closed form for a recurrence relation, that involves substituting in a guess for the closed form to replace the recursive part(s) of the recurrence. Depending on the goal (typically either to show that the hypothesized growth rate is right, or to find the precise constants), one then manipulates the resulting non-recursive equation.
+-
+-
+-
+Container
+A data structure that stores a collection of records. Typical examples are arrays, search trees, and hash tables.
+-
+-
+-
+Context-free grammar
+A grammar comprised only of productions of the form A→x where A is a non-terminal and x is a series of one or more terminals and non-terminals. That is, the given non-terminal A can be replaced at any time.
+-
+-
+-
+Context-free language
+The set of languages that can be defined by context-sensitive grammars.
+-
+-
+-
+Context-sensitive grammar
+A grammar comprised only of productions of the form xAy→xvy where A is a non-terminal and x and y are each a series of one or more terminals and non-terminals. That is, the given non-terminal A can be replaced only when it is within the proper context.
+-
+-
+-
+Cost
+The amount of resources that the solution consumes.
+-
+-
+-
+Cost model
+In algorithm analysis, a definition for the cost of each basic operation performed by the algorithm, along with a definition for the size of the input. Having these definitions allows us to calculate the cost to run the algorithm on a given input, and from there determine the growth rate of the algorithm. A cost model would be considered “good” if it yields predictions that conform to our understanding of reality.
+-
+-
+-
+Countable
+A set is countably infinite if it contains a finite number of elements, or (for a set with an infinite number of elements) if there exists a one-to-one mapping from the set to the set of integers.
+-
+-
+-
+CPU
+Acronym for Central Processing Unit, the primary processing device for a computer.
+-
+-
+-
+Current position
+A property of some list ADTs, where there is maintained a “current position” state that can be referred to later.
+-
+-
+-
+Cycle
+In graph terminology, a cycle is a path of length three or more that connects some vertex v1 to itself.
+-
+-
+-
+Cylinder
+A disk drive normally consists of a stack of platters. While this might not be so true today, traditionally all of the I/O heads moved together during a seek operation. Thus, when a given I/O head is positioned over a particular track on a platter, the other I/O heads are also positioned over the corresponding track on their platters. That collection of tracks is called a cylinder. A given cylinder represents all of the data that can be read from all of the platters without doing another seek operation.
+-
+-
+-
+Cylinder index
+In the ISAM system, a simple linear index that stores the lowest key value stored in each cylinder.
+-
+-
+-
+Cylinder overflow
+In the ISAM system, this is space reserved for storing any records that can not fit in their respective cylinder.
+-
+-
+-
+DAG
+Abbreviation for directed acyclic graph.
+-
+-
+-
+Data field
+In object-oriented programming, a synonym for data member.
+-
+-
+-
+Data item
+A piece of information or a record whose value is drawn from a type.
+-
+-
+-
+Data member
+The variables that together define the space required by a data item are referred to as data members. Some of the commonly used synonyms include data field, attribute, and instance variable.
+-
+-
+-
+Data structure
+The implementation for an ADT.
+-
+-
+-
+Data type
+A type together with a collection of operations to manipulate the type.
+-
+-
+-
+Deallocation
+Free the memory allocated to an unused object.
+-
+-
+-
+Debugging
+Correcting a program once we determine that it is not operating as we intend. This is in contrast to testing.
+-
+-
+-
+Decision problem
+A problem whose output is either “YES” or “NO”.
+-
+-
+-
+Decision tree
+A theoretical construct for modeling the behavior of algorithms. Each point at which the algorithm makes a decision (such as an if statement) is modeled by a branch in the tree that represents the algorithms behavior. Decision trees can be used in lower bounds proofs, such as the proof that sorting requires Ω(nlogn) comparisons in the worst case.
+-
+-
+-
+Data structure
+The implementation for an ADT.
+-
+-
+-
+Data type
+A type together with a collection of operations to manipulate the type.
+-
+-
+-
+Deallocation
+Free the memory allocated to an unused object.
+-
+-
+-
+Debugging
+Correcting a program once we determine that it is not operating as we intend. This is in contrast to testing.
+-
+-
+-
+Decision problem
+A problem whose output is either “YES” or “NO”.
+-
+-
+-
+Decision tree
+A theoretical construct for modeling the behavior of algorithms. Each point at which the algorithm makes a decision (such as an if statement) is modeled by a branch in the tree that represents the algorithms behavior. Decision trees can be used in lower bounds proofs, such as the proof that sorting requires Ω(nlogn) comparisons in the worst case.
+-
+-
+-
+Deep copy
+Copying the actual content of a pointee.
+-
+-
+-
+Degree
+In graph terminology, the degree for a vertex is its number of neighbors. In a directed graph, the in degree is the number of edges directed into the vertex, and the out degree is the number of edges directed out of the vertex. In tree terminology, the degree for a node is its number of children.
+-
+-
+-
+Dense graph
+A graph where the actual number of edges is a large fraction of the possible number of edges. Generally, this is interpreted to mean that the degree for any vertex in the graph is relatively high.
+-
+-
+-
+Depth
+The depth of a node M in a tree is the length of the path from the root of the tree to M.
+-
+-
+-
+Depth-first search
+A graph traversal algorithm. Whenever a v is visited during the traversal, DFS will recursively visit all of v ‘s unvisited neighbors.
+-
+-
+-
+Depth-first search tree
+A tree that can be defined by the operation of a depth-first search (DFS) on a graph. This tree would consist of the nodes of the graph and a subset of the edges of the graph that was followed during the DFS.
+-
+-
+-
+Dequeue
+A specialized term used to indicate removing an element from a queue.
+-
+-
+-
+Dereference
+Accessing the value of the pointee for some reference variable. Commonly, this happens in a language like Java when using the “dot” operator to access some field of an object.
+-
+-
+-
+Exceptions
+Exceptions are techniques used to predict possible runtime errors and handle them properly.
+Exchange
+Exchange sort
+Extent
+Heap
+This term has two different meanings. Uncommonly, it is a synonym for free store. Most often it is used to refer to a particular data structure. This data structure is a complete binary tree with the requirement that every node has a value greater than its children (called a max heap), or else the requirement that every node has a value less than its children (called a min heap). Since it is a complete binary tree, a heap is nearly always implemented using an array rather than an explicit tree structure. To add a new value to a heap, or to remove the extreme value (the max value in a max-heap or min value in a min-heap) and update the heap, takes Θ(logn) time in the worst case. However, if given all of the values in an unordered array, the values can be re-arranged to form a heap in only Θ(n) time. Due to its space and time efficiency, the heap is a popular choice for implementing a priority queue.
+-
+-
+-
+Heapsort
+A sorting algorithm that costs Θ(nlogn) time in the best, average, and worst cases. It tends to be slower than Mergesort and Quicksort. It works by building a max heap, and then repeatedly removing the item with maximum key value (moving it to the end of the heap) until all elements have been removed (and replaced at their proper location in the array).
+-
+-
+-
+Forest
+A collection of one or more trees.
+Free block
+-
+-
+Flyweight
+A design pattern that is meant to solve the following problem: You have an application with many objects. Some of these objects are identical in the information that they contain, and the role that they play. But they must be reached from various places, and conceptually they really are distinct objects. Because there is so much duplication of the same information, we want to reduce memory cost by sharing that space.
+Folding method
+-
+-
+Growthrate
+In algorithm analysis, the rate at which the cost of the algorithm grows as the size of its input grows.
+-
+-
+-
+Guess-and-test
+A technique used when trying to determine the closed-form solution for a summation or recurrence relation. Given a hypothesis for the closed-form solution, if it is correct, then it is often relatively easy to prove that using induction.
+-
+-
+-
+Guided traversal
+A tree traversal that does not need to visit every node in the tree. An example would be a range query in a BST.
+Halted configuration
+-
+-
+Halt state
+In a finite automata, a designated state which causes the machine to immediately halt when it is entered.
+-
+-
+-
+Halted-configuration
+A halted configuration occurs in a Turing machine when the machine transitions into the halt state.
+Halt state
+-
+-
+Handle
+When using a memory manager to store data, the client will pass data to be stored (the message) to the memory manager, and the memory manager will return to the client a handle. The handle encodes the necessary information that the memory manager can later use to recover and return the message to the client. This is typically the location and length of the message within the memory pool.
+-
+-
+-
+Height
+The height of a tree is one more than the depth of the deepest node in the tree.
+Height balanced
+-
+-
+Height-balanced
+The condition the depths of each subtree in a tree are roughly the same.
+Height
+-
+-
+Inorder-traversal
+In a binary tree, a traversal that first recursively visits the left child, then visits the root, and then recursively visits the right child. In a binary search tree, this traversal will enumerate the nodes in sorted order.
+Inorder
+Traversal
+-
+Insertion-Sort
+A sorting algorithm with Θ(n2) average and worst case cost, and Theta(n) best case cost. This best case cost makes it useful when we have reason to expect the input to be nearly sorted.
+Instance variable
+Inorder traversal
+-
+Inode
+An interface is a class-like structure that only contains method signatures and fields. An interface does not contain an implementation of the methods or any data members.
+Instance variable
+-
+-
+Intermediate code
+A step in a typical compiler is to transform the original high-level language into a form on which it is easier to do other stages of the process. For example, some compilers will transform the original high-level source code into assembly code on which it can do code optimization, before translating it into its final executable form.
+Intermediate
+-
+-
+Iterator
+In a container such as a List, a separate class that indicates position within the container, with support for traversing through all elements in the container.
+-
+-
+-
+Job
+Common name for processes or tasks to be run by an operating system. They typically need to be processed in order of importance, and so are kept organized by a priority queue. Another common use for this term is for a collection of tasks to be ordered by a topological sort.
+-
+-
+-
+Jump search
+An algorithm for searching a sorted list, that falls between sequential search and binary search in both computational cost and conceptual complexity. The idea is to keep jumping by some fixed number of positions until a value is found that is bigger than search key K, then do a sequential search over the subarray that is now known to contain the search key. The optimal number of steps to jump will be n−−√ for an array of size n, and the worst case cost will be Θ(n−−√).
+-
+-
+-
+K-ary tree
+A type of full tree where every internal node has exactly K children.
+-
+-
+-
+K-path
+In Floyd’s algorithm, a k-path is a path between two vertices i and j that can only go through vertices with an index value less than or equal to k.
+-
+-
+-
+Kd tree
+A spatial data structure that uses a binary tree to store a collection of data records based on their (point) location in space. It uses the concept of a discriminator at each level to decide which single component of the multi-dimensional search key to branch on at that level. It uses a key-space decomposition, meaning that all data records in the left subtree of a node have a value on the corresponding discriminator that is less than that of the node, while all data records in the right subtree have a greater value. The bintree is the image-space decomposition analog of the kd tree.
+-
+-
+-
+Key
+A field or part of a larger record used to represent that record for the purpose of searching or comparing. Another term for search key.
+Key sort
+Key space
+-
+Key sort
+Any sorting operation applied to a collection of key-value pairs where the value in this case is a reference to a complete record (that is, a pointer to the record in memory or a position for a record on disk). This is in contrast to a sorting operation that works directly on a collection of records. The intention is that the collection of key-value pairs is far smaller than the collection of records themselves. As such, this might allow for an internal sort when sorting the records directly would require an external sort. The collection of key-value pairs can also act as an index.
+Key
+Key space
+-
+Key space
+The range of values that a key value may take on.
+Key
+Key sort
+-
+Kruskal’s algorithm
+An algorithm for computing the MCST of a graph. During processing, it makes use of the UNION/FIND process to efficiently determine of two vertices are within the same subgraph.
+-
+-
+-
+Labeled graph
+A graph with labels associated with the nodes.
+-
+-
+-
+Language
+A subset of the strings that can be generated from a given alphabet.
+-
+-
+-
+Least frequently used
+Abbreviated LFU, it is a heuristic that can be used to decide which buffer in a buffer pool to flush when data in the buffer pool must be replaced by new data being read into a cache. However, least recently used is more popular than LFU. Analogous to the frequency count heuristic for maintaining a self-organizing list.
+LFU
+-
+-
+Least recently used
+Abbreviated LRU, it is a popular heuristic to use for deciding which buffer in a buffer pool to flush when data in the buffer pool must be replaced by new data being read into a cache. Analogous to the move-to-front heuristic for maintaining a self-organizing list.
+LRU
+-
+-
+Leftrecursive
+In automata theory, a production is left recursive if it is of the form A→Ax, A∈V,x∈(V∪T)∗ where V is the set of non-terminals and T is the set of terminals in the grammar.
+Recursion
+Node
+Recursive
+Length
+In a list, the number of elements. In a string, the number of characters.
+Size
+Level
+-
+Level
+In a tree, all nodes of depth d are at level d in the tree. The root is the only node at level 0, and its depth is 0.
+-
+-
+-
+Map
+A data structure that relates a key to a record.
+-
+-
+-
+Mapping
+A function that maps every element of a given set to a unique element of another set; a correspondence.
+-
+-
+-
+Master theorem
+A theorem that makes it easy to solve divide-and-conquer recurrences.
+Mapping
+Mehdi
+-
+Matching
+In graph theory, a pairing (or match) of various nodes in a graph.
+-
+-
+-
+Markarray
+array without marks
+-
+-
+-
+Natural-numbers
+Zero and the positive integers.
+Counting numbers
+-
+-
+Necessary fallacy
+A common mistake in a lower bounds proof for a problem, where the proof makes an inappropriate assumption that any algorithm must operate in some manner (typically in the way that some known algorithm behaves).
+Error
+Delusion
+Misconception.
+Neighbor
+In a graph, a node w is said to be a neighbor of node v if there is an edge from v to w.
+Adjacent
+Next door
+Bordering
+Node
+The objects that make up a linked structure such as a linked list or binary tree. Typically, nodes are allocated using dynamic memory allocation. In graph terminology, the nodes are more commonly called vertices.
+Vertex
+Edges
+-
+Non-deterministic
+In a finite automata, at least one state has multiple transitions on at least one symbol. This means that it is not deterministic about what transition to take in that situation. A non-deterministic machine is said to accept a string if it completes execution on the string in an accepting state under at least one choice of non-deterministic transitions. Generally, non-determinism can be simulated with a deterministic machine by alternating between the execution that would take place under each of the branching choices.
+-
+-
+-
+Non-deterministic algorithm
+An algorithm that may operate using a non-deterministic choice operation.
+-
+-
+-
+Non-deterministic choice
+An operation that captures the concept of nondeterminism. A nondeterministic choice can be viewed as either “correctly guessing” between a set of choices, or implementing each of the choices in parallel. In the parallel view, the nondeterminism was successful if at least one of the choices leads to a correct answer.
+-
+-
+-
+non-deterministic polynomial time algorithm
+An algorithm that runs in polynomial time, and which may (or might not) use non-deterministic choice.
+-
+-
+-
+non-strict partial order
+In set notation, a relation that is reflexive, antisymmetric, and transitive.
+Antisymmetric preorder
+-
+-
+Non-terminal
+In contrast to a terminal, a non-terminal is an abstract state in a production rule. Begining with the start symbol, all non-terminals must be converted into terminals in order to complete a derivation.
+Operable
+Repairable
+Correctable
+NP
+An abbreviation for non-deterministic polynomial.
+-
+-
+-
+Omega notation
+In algorithm analysis, Ω notation is used to describe a lower bound. Roughly (but not completely) analogous to big-Oh notation used to define an upper bound.
+Conclusion.
+Result.
+Resolution.
+Object
+An instance of a class, that is, something that is created and takes up storage during the execution of a computer program. In the object-oriented programming paradigm, objects are the basic units of operation. Objects have state in the form of data members, and they know how to perform certain actions (methods).
+Entity
+Item
+-
+Object-oriented programming paradigm
+An approach to problem-solving where all computations are carried out using objects.
+OOP
+Oriented
+-
+Octree
+The three-dimensional equivalent of the quadtree would be a tree with 23 or eight branches.
+-
+-
+-
+One-way list
+A synonym for a singly linked list.
+-
+-
+-
+Operating system
+The control program for a computer. Its purpose is to control hardware, manage resources, and present a standard interface to these to other software components.
+Computer technology.
+-
+-
+Opinionated
+stiff in opinion firmly or unduly adhering to one's own opinion or to preconceived notions obstinate in opinion.
+Dogmatic			
+-
+-
+Oppidan
+of or pertaining to a town.		
+Downtown
+Burghal
+Central
+Pancake
+a thin cake of batter fried in a pan or on a griddle a griddlecake a flapjack.			
+Waffle
+-
+-
+Page
+A term often used to refer to the contents of a single buffer within a buffer pool or other virtual memory. This corresponds to a single block or sector of data from backing storage, which is the fundamental unit of I/O.
+Sheet
+-
+-
+Panda
+a small asiatic mammal (ailurus fulgens) having fine soft fur. it is related to the bears  and inhabits the mountains of northern india.			
+Bear cat
+-
+-
+partial order
+In set notation, a binary relation is called a partial order if it is antisymmetric and transitive. If the relation is also reflexive, then it is a non-strict partial order. Alternatively, if the relation is also irreflexive, then it is a strict partial order.
+Prejudiced.
+-
+-
+Permutation
+A permutation of a sequence S is the elements of S arranged in some order.
+Arrangement
+Sorting
+-
+Polymorphism
+An object-oriented programming term meaning one name, many forms. It describes the ability of software to change its behavior dynamically. Two basic forms exist: run-time polymorphism and compile-time polymorphism.
+-
+-
+-
+Preorder traversal
+In a binary tree, a traversal that first visits the root, then recursively visits the left child, then recursively visits the right child.
+-
+-
+-
+radix sort
+A sorting algorithm that works by processing records with k digit keys in k passes, where each pass sorts the records according to the current digit. At the end of the process, the records will be sorted. This can be efficient if the number of digits is small compared to the number of records. However, if the n records all have unique key values, than at least Ω(logn) digits are required, leading to an Ω(nlogn) sorting algorithm that tends to be much slower than other sorting algorithms like Quicksort or mergesort.
+-
+-
+-
+RAM
+Abbreviation for Random Access Memory.
+-
+-
+-
+random access memory
+Abbreviated RAM, this is the principle example of primary storage in a modern computer. Data access times are typically measured in billionths of a second (microseconds), which is roughly a million times faster than data access from a disk drive. RAM is where data are held for immediate processing, since access times are so much faster than for secondary storage. RAM is a typical part of a computer’s memory hierarchy.
+-
+-
+-
+reflexive
+In set notation, binary relation R on set S is reflexive if aRa for all a∈S.
+-
+-
+-
+Paralysis
+abolition of function  whether complete or partial esp. the loss of the power of voluntary motion with or without that of sensation in any part of the body palsy. see hemiplegia and paraplegia. also used figuratively.			
+Immobility
+Numbness
+-
+search tree
+A tree data structure that makes search by key value more efficient. A type of container, it is common to implement an index using a search tree. A good search tree implementation will guarentee that insertion, deletion, and search operations are all Θ(logn).
+BST
+-
+-
+search trie
+Any search tree that is a trie.
+-
+-
+-
+seed
+In random number theory, the starting value for a random number series. Typically used with any linear congruential method.
+-
+-
+-
+selection sort
+While this sort requires Θ(n2) time in the best, average, and worst cases, it requires only Θ(n) swap operations. Thus, it does relatively well in applications where swaps are expensive. It can be viewed as an optimization on bubble sort, where a swap is deferred until the end of each iteration.
+-
+-
+-
+separate chaining
+In hashing, a synonym for open hashing
+-
+-
+-
+sequence
+In set notation, a collection of elements with an order, and which may contain duplicate-valued elements. A sequence is also sometimes called a tuple or a vector.
+-
+-
+-
+tombstone
+In hashing, a tombstone is used to mark a slot in the hash table where a record has been deleted. Its purpose is to allow the collision resolution process to probe through that slot (so that records further down the probe sequence are not unreachable after deleting the record), while also allowing the slot to be reused by a future insert operation.
+-
+-
+-
+team
+a group of young animals  especially of young ducks a brood a litter.			
+Squad
+Group
+Crew
+topological sort
+The process of laying out the vertices of a DAG in a linear order such that no vertex A in the order is preceded by a vertex that can be reached by a (directed) path from A. Usually the (directed) edges in the graph define a prerequisite system, and the goal of the topological sort is to list the vertices in an order such that no prerequisites are violated.
+-
+-
+-
+track
+On a disk drive, a concentric circle representing all of the sectors that can be viewed by the I/O head as the disk rotates. The significance is that, for a given placement of the I/O head, the sectors on the track can be read without performing a (relatively expensive) seek operation.
+-
+-
+-
+transducer
+A machine that takes an input and creates an output. A Turing Machine is an example of a transducer.
+-
+-
+-
+trie
+A form of search tree where an internal node represents a split in the key space at a predetermined location, rather than split based on the actual key values seen. For example, a simple binary search trie for key values in the range 0 to 1023 would store all records with key values less than 512 on the left side of the tree, and all records with key values equal to or greater than 512 on the right side of the tree. A trie is always a full tree. Folklore has it that the term comes from “retrieval”, and should be pronounced as “try” (in contrast to “tree”, to distinguish the differences in the space decomposition method of a search tree versus a search trie). The term “trie” is also sometimes used as a synonym for the alphabet trie.
+-
+-
+-
+underflow
+The condition where the amount of data stored in an entity has dropped below some minimum threshold. For example, a node in a B-tree is required to be at least half full. If a record deletion causes the node to be less than half full, then it is in a condition of underflow, and something has to be done to correct this.
+-
+-
+-
+uninitialized
+Uninitialized variable means it has no initial value.
+-
+-
+-
+unit production
+A unit production is a production in a grammar of the form A→B, where A,B∈ the set of non-terminals for the grammar. Any grammar with unit productions can be rewritten to remove them.
+-
+-
+-
+unsolveable problem
+A problem that can proved impossible to solve on a computer. The classic example is the halting problem.
+-
+-
+-
+vector
+In set notation, another term for a sequence. As a data structure, the term vector usually used as a snyonym for a dynamic array.
+-
+-
+-
+vertex
+Another name for a node in a graph.
+Node
+-
+-
+virtual memory
+A memory management technique for making relatively fast but small memory appear larger to the program. The large “virtual” data space is actually stored on a relatively slow but large backing storage device, and portions of the data are copied into the smaller, faster memory as needed by use of a buffer pool. A common example is to use RAM to manage access to a large virtual space that is actually stored on a disk drive. The programmer can implement a program as though the entire data content were stored in RAM, even if that is larger than the physical RAM available making it easier to implement.
+-
+-
+-
+visitor
+A design pattern where a traversal process is given a function (known as the visitor) that is applied to every object in the collection being traversed. For example, a generic tree or graph traversal might be designed such that it takes a function parameter, where that function is applied to each node.
+-
+-
+-
+worst case
+In algorithm analysis, the problem instance from among all problem instances for a given input size n that has the greatest cost. Note that the worst case is not when n is big, since we are referring to the wrost from a class of inputs (i.e, we want the worst of those inputs of size n).
+-
+-
+-
+zigzig
+A type of rebalancing operation used by splay trees.
+-
+-
+-
+Zipf distribution
+A data distribution that follows Zipf’s law, an emprical observation that many types of data studied in the physical and social sciences follow a power law probability distribution. That is, the frequency of any record in the data collection is inversely proportional to its rank when the collection is sorted by frequency. Thus, the most frequently appearing record has a frequency much higher than the next most frequently appearing record, which in turn has a frequency much higher than the third (but with ratio slightly lower than that for the first two records) and so on. The 80/20 rule is a casual characterization of a Zipf distribution. Adherence to a Zipf distribution is important to the successful operation of a cache or self-organizing list.
+-
+-
+-
+zone
+In memory management, the concept that different parts of the memory pool are handled in different ways. For example, some of the memory might be handled by a simple freelist, while other portions of the memory pool might be handled by a sequential fit memory manager. On a disk drive the concept of a zone relates to the fact that there are limits to the maximum data density, combined with the fact that the need for the same angular distance to be used for a sector in each track means that tracks further from the center of the disk will become progressively less dense. A zone in this case is a series of adjacent tracks whose data density is set by the maximum density of the innermost track of that zone
+-
+-
+-
+xylophagous
+of or pertaining to the genus xylophaga.			
+-
+-
+-
+xylostein
+a glucoside found in the poisonous berries of a species of honeysuckle (lonicera xylosteum)  and extracted as a bitter white crystalline substance.			
+-
+-
+-
+xyst
+alt. of xystus	
+-
+-
+-
+xyster
+an instrument for scraping bones.			
+-
+-
+-
+yacht
+to manage a yacht to voyage in a yacht		
+Sailboat
+Cruiser
+Sailing boat
+yankee
+a nickname for a native or citizen of new england  especially one descended from old new england stock by extension an inhabitant of the northern states as distinguished from a southerner also applied sometimes by foreigners to any inhabitant of the united states.			
+-
+-
+-
+y2mate.com
+youtube downloading site
+-
+-
+Youtube
+Queue
+a line or sequence of people or vehicles awaiting their turn to be attended to or to proceed.
+LIFO
+-
+-
