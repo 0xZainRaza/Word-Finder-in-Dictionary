@@ -26,9 +26,9 @@ A Dictionary is a crucial data structure used to store information in a key-valu
    - Displays all available words in the dictionary, providing a comprehensive view.
 
 ## References
-1. C++ Documentation,https://en.cppreference.com/w/
-2. File Handling in C++,https://www.geeksforgeeks.org/file-handling-c-classes/
-3. Binary Search Tree (BST),https://www.geeksforgeeks.org/binary-search-tree-data-structure/
-4. AVL Trees,https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
-5. Hash Tables in C++,http://www.cplusplus.com/reference/unordered_map/unordered_map/
-6. Implement a Dictionary using Trie,https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
+1. C++ Documentation, https://en.cppreference.com/w/
+2. File Handling in C++, https://www.geeksforgeeks.org/file-handling-c-classes/
+3. Binary Search Tree (BST), https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+4. AVL Trees, https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
+5. Hash Tables in C++, http://www.cplusplus.com/reference/unordered_map/unordered_map/
+6. Implement a Dictionary using Trie, https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
