@@ -24,7 +24,7 @@ The project offers the following functionalities:
 The implementation of this project is available [here](https://1drv.ms/f/s!AvgohQFkZ3gHkm0DWWL1Q6CDxSof). Follow the link to access the code and set up the project locally.
 
 ## References
-1. [English Dictionary using Data Structure (BST)](https://www.sourcecodester.com/cc/5975/english-dictionary-using-data-structurebst.html)
-2. [Implement a Dictionary using Trie](https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/)
-3. [Data Structure Dictionary (Spell Checker)](https://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/)
-4. [Word Break Problem](https://www.geeksforgeeks.org/word-break-problem-dp-32/)
+1. English Dictionary using Data Structure (BST),https://www.sourcecodester.com/cc/5975/english-dictionary-using-data-structurebst.html
+2. Implement a Dictionary using Trie,https://www.geeksforgeeks.org/implement-a-dictionary-using-trie/
+3. Data Structure Dictionary (Spell Checker),https://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/
+4. Word Break Problem,https://www.geeksforgeeks.org/word-break-problem-dp-32/
