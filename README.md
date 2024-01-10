@@ -1,6 +1,6 @@
 # Word Finder for Dictionary
 
-This project demonstrates the usage of a Dictionary application implemented in C++. The application manages words and their corresponding meanings, using a .txt file as the database tool. The primary objective is to provide a more efficient way of searching for word meanings compared to traditional dictionary methods.
+This project demnstrates the usage of a Dictionary application implemented in C++. The application manages words and their corresponding meanings, using a .txt file as the database tool. The primary objective is to provide a more efficient way of searching for word meanings compared to traditional dictionary methods.
 
 Our application streamlines the process of searching for word meanings by efficiently retrieving the entered word and presenting its corresponding meaning. Additionally, the system suggests related words, enhancing the user experience and expanding their vocabulary.
 
